@@ -14,26 +14,24 @@ This repository includes 2 CNNs for classifying coarse (furniture and insects) a
 ### Two models for our problem:
 - The first model constructed was 2 different CNNs, one for coarse and one for fine categories as shown below.
 ![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im1.png)
-im1
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-im6
+
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im6.png)
+
+
 - The second model is a Hierarchical Deep Convolutional Neural Network (based on [1]). The image below show the architecture of the approach.
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-im2
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im2.png)
+
 #### Layers for coarse and fine classification
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-im3
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im3.png)
+
 #### Shared Layers
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-im4
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im4.png)
+
 Classification Results
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-im5
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im5.png)
+
 Full report is available only in greek.
-
-
-
 
 
 References
