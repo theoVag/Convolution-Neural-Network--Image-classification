@@ -13,7 +13,7 @@ This repository includes 2 CNNs for classifying coarse (furniture and insects) a
 
 ### Two models for our problem:
 - The first model constructed was 2 different CNNs, one for coarse and one for fine categories as shown below.
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im1.png)
 im1
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
