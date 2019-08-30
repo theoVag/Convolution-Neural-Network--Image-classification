@@ -28,13 +28,14 @@ This repository includes 2 CNNs for classifying coarse (furniture and insects) a
 #### Shared Layers
 ![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im4.png)
 
-Classification Results
+#### Classification Results
 ![](https://github.com/theoVag/Convolution-Neural-Network--Image-classification/blob/master/images/im5.png)
 
 Full report is available only in greek.
 
 
 References
+
 [1] Zhicheng,Y.,Zhang,Η.,Piramuthu,R., Jagadeesh,V.,DeCoste,D., Wei,D., Yizhou,Y.,"HD­CNN: Hierarchical
 Deep Convolutional Neural Network for Large ScaleVisual Recognition",IEEE International Conference on
 Computer Vision (ICCV 2015)
